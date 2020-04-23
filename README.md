@@ -22,7 +22,7 @@ Un principio de diseño es una técnica que puede ser aplicada a un diseño o c�
 
 Una buena práctica es hacer desarrollos iterativos e incrementales, repetir los pasos de un proceso de desarrollo una y otra vez añadiendo un poco de complejidad cada vez, es decir, en cada iteración se hace análisis, diseño, implementación y pruebas, entonces se lo mostraremos al cliente y continuaremos refinando el desarrollo de nuestro software. 
 
-Requerimientos
+Requerimientos.
 La primera prioridad en el desarrollo de un sistema es que haga exactamente lo que el cliente necesita.
 
 El requerimiento es un punto especifico que tu sistema tiene que hacer para hacer su trabajo correctamente.
@@ -54,7 +54,7 @@ Los cambios pueden provocar que en un caso de uso existan varios Escenarios pero
 
 Algunas veces un cambio de requerimiento revela problemas en tu diseño del cual no te habías dado cuenta, cambio es una constante y tu sistema debería siempre mejorar cuando se apliquen los cambios, un buena practica cuando se aplican los cambios es siempre utilizar principios de diseño orientado a objetos.
 
-Análisis
+Análisis.
 El Análisis te ayuda a asegurar que tu sistema funcione en un contexto del mundo real, previniendo problemas antes de que surgan.
 
 El análisis y los casos de uso nos permiten mostrar a los clientes, directores y otros desarrolladores como tu sistema trabajara en un contexto del mundo real, el análisis nos permite darnos cuenta si necesitamos hacer cambios en nuestros casos de uso y en ocasiones esos cambios significaran desarrollar otros casos de uso.
