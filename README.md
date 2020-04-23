@@ -69,5 +69,5 @@ Un diagrama de clases es un tipo de diagrama estático que describe la estructur
 
 Los diagramas de clases nos ayuda a comunicar nuestro diseño a los diversos miembros del desarrollo del sistema, es una gran manera de modelar las clases que necesitamos crear, pero no proveen de todas las respuesta que necesitaremos al programar el sistema, por ejemplo no nos indicaran como programar nuestros métodos, sin embargo es una herramienta útil para detectar problemas antes de programar o comunicar nuestras ideas.
 
-Resumen libro sugerido:
+Resumen libro sugerido para pasar de novato a experto:
 https://sites.google.com/site/comoaprenderpragmatic
