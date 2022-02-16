@@ -2,3 +2,6 @@
 .classpath
 .DS_Store
 .project
+/bin/
+ProyectoVar/.settings/org.eclipse.jdt.core.prefs
+ProyectoVar/bin/
