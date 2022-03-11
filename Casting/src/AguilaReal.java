@@ -1,5 +1,7 @@
 
 public class AguilaReal extends Aguila {
+	
+	String tipo = "Aguila Real";
 
 	public AguilaReal(String nombre, int edad) {
 		super(nombre, edad);
@@ -7,7 +9,11 @@ public class AguilaReal extends Aguila {
 	
 	@Override
 	void volar() {
-		System.out.println("Puedo volar como un aguila Real");
+		System.out.println("Volar como un aguila Real");
+	}
+	
+	void volarAguilaReal() {
+		System.out.println("volarAguilaReal()");
 	}
 
 }
